@@ -1,0 +1,40 @@
+/* tag selector */
+body{
+    background-color: rgb(209, 255, 240);
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray ;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{
+    color: green;
+}
+
+h3{
+    color: green;
+}
+
+p{
+    color: orange;
+}
+
+img{
+    background-color: blue;
+}
+
+/* class selector */
+.Mario{
+    background-color: yellow;
+}
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: blueviolet;
+}
